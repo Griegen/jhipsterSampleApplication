@@ -1,0 +1,17 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "regionName",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180220011428",
+    "entityTableName": "region",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "angularJSSuffix": "mySuffix"
+}
